@@ -1,6 +1,6 @@
 // Emin Ayyıldız
 
-#include<Servo.h>    //servo kütüphanesini ekledik
+#include<Servo.h>    
 
 Servo servo;    
 const int eko=10;         
